@@ -139,4 +139,8 @@ public class JpaTest {
         entityManager.close();
     }
 
+    public void testGit(){
+        System.out.println("git");
+    }
+
 }
