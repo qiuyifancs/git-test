@@ -141,6 +141,7 @@ public class JpaTest {
 
     public void testGit(){
         System.out.println("git");
+        System.out.println("change git in Jpa");
     }
 
 }
